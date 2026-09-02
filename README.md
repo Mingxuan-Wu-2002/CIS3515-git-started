@@ -1,5 +1,5 @@
 ## Hello, this is CIS3515 Git-started
 
-### Please enter your user.name
+### tuq05274
 
-### and user.email
+### tuq05274@temple.edu
